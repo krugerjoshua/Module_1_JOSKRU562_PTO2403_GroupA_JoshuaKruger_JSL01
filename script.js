@@ -1,6 +1,7 @@
 function validateSyntax() {
     let input = document.getElementById('petInput').value;
     // Validation logic goes here
+    if (input == )
     let result = ''; // Placeholder for validation result
 
     // TODO: Write your validation logic here
